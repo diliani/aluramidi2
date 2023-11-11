@@ -1,7 +1,7 @@
-function tocaSomDili() {
-    document.querySelector('#som_tecla_dili').play();
+function tocaSomDrump() {
+    document.querySelector('#som_tecla_drump').play();
 }
-document.querySelector ('.tecla_dili').onclick= tocaSomDili;
+document.querySelector ('.tecla_drump').onclick= tocaSomDrump;
 
 function tocaSomClap() {
     document.querySelector('#som_tecla_clap').play();
