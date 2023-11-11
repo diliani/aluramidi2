@@ -38,7 +38,7 @@ function tocaSomTic() {
 }
 document.querySelector('.tecla_tic').onclick= tocaSomTic;
 
-function tocaSomTrompeta() {
-    document.querySelector('#som_tecla_trompeta').play();
+function tocaSomTromp() {
+    document.querySelector('#som_tecla_tromp').play();
 }
-document.querySelector('.tecla_trompeta').onclick= tocaSomTrompeta;
+document.querySelector('.tecla_tromp').onclick= tocaSomTromp;
